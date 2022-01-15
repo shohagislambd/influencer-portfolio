@@ -1,0 +1,15 @@
+/* Google Fonts:Poppins stylesheet */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+/* common css */
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+li{
+    list-style:none;
+}
+a{
+    text-decoration: none;
+}
